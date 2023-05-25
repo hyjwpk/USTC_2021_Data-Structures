@@ -1,0 +1,16 @@
+﻿  HuffmanTree.cpp
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\HuffmanTree.cpp(65,3): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test.cpp
+  User.cpp
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\User.cpp(81,7): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\User.cpp(181,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\User.cpp(184,8): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\User.cpp(187,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\User.cpp(200,38): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\User.cpp(151,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\User.cpp(192,4): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\User.cpp(229,3): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\User.cpp(242,3): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\User.cpp(274,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\User.cpp(288,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wangc\source\repos\HuffmanCode\HuffmanCode\User.cpp(253,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
